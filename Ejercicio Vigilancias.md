@@ -26,4 +26,4 @@ Existen tres tipos de usuarios:
 - Como **secretario** quiero validar una asignación automática para asegurarme de que sea correcta.
 - Como **profesor vigilante** quiero poder ver la información acerca del examen que tengo que asistir a vigilar y denegar o aceptar la vigilancia.
 ## 3.Modelo del dominio
-[Diagrama dominio](file:///home/marco/Descargas/Diagrama%20sin%20t%C3%ADtulo.drawio.pdf)
+![/PDS/ModeloDominio.drawio.pdf](https://github.com/xxmarcoxx769/PDS/blob/main/ModeloDominio.drawio.pdf)
